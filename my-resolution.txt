@@ -12,3 +12,5 @@ Starterpack for new year:
 Makanan:
 - bakwan
 - bakmi
+- sate
+- soto
